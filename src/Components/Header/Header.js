@@ -4,6 +4,7 @@ import '../HeroImage/HeroImage';
 import HeroImage from '../HeroImage/HeroImage';
 
 const Header = () => {
+
 	return (
 		<header>
 			<nav className='header-nav'>
